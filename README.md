@@ -17,4 +17,4 @@ alt="IMAGE ALT TEXT HERE" width="960" height="540" border="13" /></a>
 
 # Asset :
 
-[Asset](https://github.com/Omarelsiry/subcutaneous-injection-vr-simulation/releases)
+[PackageFileForViewr](https://github.com/Omarelsiry/subcutaneous-injection-vr-simulation/releases)
