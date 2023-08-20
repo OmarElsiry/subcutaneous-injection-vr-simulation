@@ -9,3 +9,9 @@ In case of running the **05.sim** please extract the folder at this path ##E:\Ma
 " target="_blank"><img src="http://img.youtube.com/vi/mF9B9ZoT8rY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="960" height="540" border="13" /></a>
 
+# /Installation
+
+head to SimLab official website 
+to download VR Studio https://www.simlab-soft.com/3d-products/vr-studio.aspx
+
+[VR Studio](https://www.simlab-soft.com/3d-products/vr-studio.aspx)
