@@ -11,9 +11,9 @@ alt="IMAGE ALT TEXT HERE" width="960" height="540" border="13" /></a>
 
 # Installation
 
-**In order to download the app to run the project **05.vrpackage** ,head to the following link :[SimLab VR Studio](https://www.simlab-soft.com/technologies/simlab-showroom.aspx)
+**In order to download the app to run the project **05.vrpackage** ,head to the following link :[SimLab VR Studio](https://www.simlab-soft.com/technologies/simlab-showroom.aspx)**
 
-**In order to download the app to edit the project **05.sim** ,head to the following link :[SimLab VR Studio](https://www.simlab-soft.com/3d-products/vr-studio.aspx)
+**In order to download the app to edit the project **05.sim** ,head to the following link :[SimLab VR Studio](https://www.simlab-soft.com/3d-products/vr-studio.aspx)**
 
 # Asset :
 
