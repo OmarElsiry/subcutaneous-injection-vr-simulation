@@ -9,7 +9,7 @@ In case of running the **05.sim** please extract the folder at this path **E:\Ma
 " target="_blank"><img src="http://img.youtube.com/vi/mF9B9ZoT8rY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="960" height="540" border="13" /></a>
 
-# Installation
+# Setup
 
 **In order to download the app to run the project **05.vrpackage** ,head to the following link :[SimLab VR Studio](https://www.simlab-soft.com/technologies/simlab-showroom.aspx)**
 
